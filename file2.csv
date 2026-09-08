@@ -1,0 +1,11 @@
+feat_id,feat_name,model_feat_imp_train,feat_rank_train,feat_description
+1,team_pom_advantage,12.26846936,1,Team player of the match advantage
+2,team_dot_diff_last15_ratio,11.07753631,2,dot difference advantage
+3,team_count_wickets_last15,10.10890692,3,team_count_wickets_last15
+4,team_sixes_fours_last15_ratio,9.964264457,4,team_sixes_fours_last15_ratio
+5,team_maiden_last15_ratio,8.457390404,5,team_maiden_last15_ratio
+6,team_count_50runs_last15,6.796451739,6,Ratio of number of 50s by players in team1 to number of 50s by players in team2 in last 15 games
+7,team1only_avg_runs_last15,5.179190476,7,team1's avg inning runs in last 15 games
+8,team_winp_last5,4.282392331,8,Ratio of team1's win % to team2's win % in last 5 games
+9,team_bat_field_win_ratio_last15,4.184247371,9,team_bat_field_win_ratio_last15
+10,team_winamount_last15_ground,4.113774074,10,team_winamount_last15_ground
